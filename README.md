@@ -1,5 +1,5 @@
 # Der philosophische Chatbot
-dicu.chat · GitLab
+[dicu.chat · GitLab](https://gitlab.com/dicu.chat)
 
 # About
 Ein Chatbot für die Kommunikation mit dem Publikum. 
